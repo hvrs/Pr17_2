@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnWeb" type="id" />
+    <item name="btnMap" type="id" />
+    <item name="btnCall" type="id" />
+</resources>
